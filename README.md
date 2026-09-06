@@ -294,19 +294,3 @@ above. This is what makes the platform's claims checkable rather than asserted.
 | **GenAI** | Drafting findings/root-cause/remediation/narrative from structured data, with a grounding check | Free-form chat, or as a source of facts not already in the pipeline's own output |
 
 ---
-
-## Design decisions & scope
-
-- **Residual risk scoring** uses a documented, transparent methodology (50/20/20/10 weighted
-  blend of pass-rate, trend, exception severity, and SLA-breach frequency, with a lookup-table
-  inherent-risk proxy) — visible and auditable in `src/risk_scoring/risk_score.py`, not a
-  black box. In a real RCSA this would be calibrated and formally governed.
-- **ML anomaly detection** intentionally uses two classical, fully explainable techniques rather
-  than a deep sequence model, given ~12 data points per control — a documented choice, not a
-  shortcut (see the module docstring in `src/ml_anomaly/anomaly_detection.py`).
-- **GenAI grounding** is enforced by a lightweight but real post-hoc check: every numeric token in
-  a generated draft must trace back to the structured data package the model was given, or it's
-  flagged rather than silently passed through.
-- **All data is synthetic**, generated with injected data-quality defects and three deliberately
-  planted control-performance anomalies, specifically so the platform's detection claims could be
-  checked against a known answer rather than taken on faith.
