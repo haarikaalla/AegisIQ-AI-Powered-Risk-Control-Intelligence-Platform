@@ -1,0 +1,14 @@
+control_id,process_id,process_name,control_name,control_type,frequency,test_procedure,owner,risk_category,kri_threshold_pass_rate
+TC-01,P1,Trade Allocation & Execution,Allocation Timeliness,Detective,Daily,Allocation timestamp must be within 30 minutes of execution timestamp.,"J. Farrow, Trading Ops",Operational,0.97
+TC-02,P1,Trade Allocation & Execution,Execution Price Reasonableness,Detective,Daily,Execution price must be within 15bps of benchmark price.,"J. Farrow, Trading Ops",Operational,0.98
+TC-03,P1,Trade Allocation & Execution,Pro-Rata Allocation Fairness,Detective,Daily,Allocation % across an order block must be within 2% of pro-rata entitlement.,"J. Farrow, Trading Ops",Operational,0.97
+FC-01,P2,Fee Billing & Calculation,Fee Recalculation Match,Detective,Monthly,Billed fee must match independently recalculated fee within 0.5%.,"M. Cho, Billing Ops",Operational,0.97
+FC-02,P2,Fee Billing & Calculation,Invoice Timeliness SLA,Detective,Monthly,Invoice must be issued within 10 business days of period end.,"M. Cho, Billing Ops",Operational,0.95
+KC-01,P3,Client Onboarding / KYC-AML Refresh,Refresh SLA Compliance,Preventive,Monthly,KYC/AML periodic refresh must complete on or before the due date.,"R. Alavi, Compliance Ops",Compliance,0.96
+KC-02,P3,Client Onboarding / KYC-AML Refresh,Documentation Completeness,Preventive,Monthly,All required KYC documents must be present and complete at review closure.,"R. Alavi, Compliance Ops",Compliance,0.98
+NV-01,P4,NAV / Valuation Oversight,Price Variance Tolerance,Detective,Daily,Fund price must be within 25bps of an independent source price.,"S. Okonjo, Valuation Control",Valuation,0.97
+NV-02,P4,NAV / Valuation Oversight,Break Resolution SLA,Detective,Daily,Identified pricing breaks must be resolved within 3 business days.,"S. Okonjo, Valuation Control",Valuation,0.9
+CM-01,P5,Cash & Collateral Movements,Dual Approval Threshold,Preventive,Daily,"Movements above $250,000 require two distinct approvers.","D. Weiss, Treasury Ops",Operational,0.99
+CM-02,P5,Cash & Collateral Movements,Custodian Reconciliation Match,Detective,Daily,Cash/collateral movement must match custodian statement (no unresolved break).,"D. Weiss, Treasury Ops",Operational,0.98
+SM-01,P6,Suitability & Mandate Compliance,Guideline Band Compliance,Detective,Monthly,Portfolio asset-class weight must sit within the mandate's guideline band.,"A. Petrova, Suitability Oversight",Suitability,0.93
+SM-02,P6,Suitability & Mandate Compliance,Periodic Suitability Review,Preventive,Monthly,Portfolio suitability review must complete within the required annual cycle.,"A. Petrova, Suitability Oversight",Suitability,0.95
