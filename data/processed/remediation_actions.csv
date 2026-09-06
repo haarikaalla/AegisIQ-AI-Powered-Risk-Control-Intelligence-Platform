@@ -1,0 +1,383 @@
+action_id,exception_id,control_id,owner,reason_code,detail,identified_date,target_closure_date,days_to_target,status_vs_sla,remediation_priority
+REM-9000000,9000007,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 111 min after execution (limit 30 min),2025-09-11,2025-10-01,-339,Overdue,Medium
+REM-9000001,9000024,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 63 min after execution (limit 30 min),2025-10-15,2025-11-04,-305,Overdue,Medium
+REM-9000002,9000025,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 64 min after execution (limit 30 min),2025-10-17,2025-11-06,-303,Overdue,Medium
+REM-9000003,9000030,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 46 min after execution (limit 30 min),2025-10-31,2025-11-20,-289,Overdue,Medium
+REM-9000004,9000033,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 173 min after execution (limit 30 min),2025-11-13,2025-12-03,-276,Overdue,Medium
+REM-9000005,9000038,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 161 min after execution (limit 30 min),2025-11-24,2025-12-14,-265,Overdue,Medium
+REM-9000006,9000053,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 171 min after execution (limit 30 min),2025-12-29,2026-01-18,-230,Overdue,Medium
+REM-9000007,9000061,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 76 min after execution (limit 30 min),2026-01-22,2026-02-11,-206,Overdue,Medium
+REM-9000008,9000091,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 80 min after execution (limit 30 min),2026-04-15,2026-05-05,-123,Overdue,Medium
+REM-9000009,9000097,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 192 min after execution (limit 30 min),2026-04-29,2026-05-19,-109,Overdue,Medium
+REM-9000010,9000098,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 117 min after execution (limit 30 min),2026-04-29,2026-05-19,-109,Overdue,Medium
+REM-9000011,9000099,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 67 min after execution (limit 30 min),2026-05-01,2026-05-21,-107,Overdue,Medium
+REM-9000012,9000115,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 160 min after execution (limit 30 min),2026-05-08,2026-05-28,-100,Overdue,Medium
+REM-9000013,9000119,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 207 min after execution (limit 30 min),2026-05-13,2026-06-02,-95,Overdue,Medium
+REM-9000014,9000121,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 111 min after execution (limit 30 min),2026-05-13,2026-06-02,-95,Overdue,Medium
+REM-9000015,9000160,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 84 min after execution (limit 30 min),2026-06-04,2026-06-24,-73,Overdue,Medium
+REM-9000016,9000186,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 141 min after execution (limit 30 min),2026-06-17,2026-07-07,-60,Overdue,Medium
+REM-9000017,9000187,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 154 min after execution (limit 30 min),2026-06-17,2026-07-07,-60,Overdue,Medium
+REM-9000018,9000188,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 54 min after execution (limit 30 min),2026-06-17,2026-07-07,-60,Overdue,Medium
+REM-9000019,9000193,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 55 min after execution (limit 30 min),2026-06-17,2026-07-07,-60,Overdue,Medium
+REM-9000020,9000197,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 122 min after execution (limit 30 min),2026-06-18,2026-07-08,-59,Overdue,Medium
+REM-9000021,9000206,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 196 min after execution (limit 30 min),2026-06-19,2026-07-09,-58,Overdue,Medium
+REM-9000022,9000210,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 53 min after execution (limit 30 min),2026-06-23,2026-07-13,-54,Overdue,Medium
+REM-9000023,9000236,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 163 min after execution (limit 30 min),2026-06-29,2026-07-19,-48,Overdue,Medium
+REM-9000024,9000254,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 157 min after execution (limit 30 min),2026-07-02,2026-07-22,-45,Overdue,Medium
+REM-9000025,9000304,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 123 min after execution (limit 30 min),2026-07-17,2026-08-06,-30,Overdue,Medium
+REM-9000026,9000309,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 105 min after execution (limit 30 min),2026-07-21,2026-08-10,-26,Overdue,Medium
+REM-9000027,9000340,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 79 min after execution (limit 30 min),2026-07-29,2026-08-18,-18,Overdue,Medium
+REM-9000028,9000345,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 215 min after execution (limit 30 min),2026-07-29,2026-08-18,-18,Overdue,Medium
+REM-9000029,9000353,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 184 min after execution (limit 30 min),2026-07-30,2026-08-19,-17,Overdue,Medium
+REM-9000030,9000367,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 239 min after execution (limit 30 min),2026-08-03,2026-08-23,-13,Overdue,Medium
+REM-9000031,9000369,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 236 min after execution (limit 30 min),2026-08-03,2026-08-23,-13,Overdue,Medium
+REM-9000032,9000381,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 105 min after execution (limit 30 min),2026-08-05,2026-08-25,-11,Overdue,Medium
+REM-9000033,9000389,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 176 min after execution (limit 30 min),2026-08-06,2026-08-26,-10,Overdue,Medium
+REM-9000034,9000393,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 130 min after execution (limit 30 min),2026-08-06,2026-08-26,-10,Overdue,Medium
+REM-9000035,9000397,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 95 min after execution (limit 30 min),2026-08-06,2026-08-26,-10,Overdue,Medium
+REM-9000036,9000403,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 217 min after execution (limit 30 min),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000037,9000406,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 184 min after execution (limit 30 min),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000038,9000407,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 54 min after execution (limit 30 min),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000039,9000408,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 54 min after execution (limit 30 min),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000040,9000413,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 197 min after execution (limit 30 min),2026-08-11,2026-08-31,-5,Overdue,Medium
+REM-9000041,9000414,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 131 min after execution (limit 30 min),2026-08-11,2026-08-31,-5,Overdue,Medium
+REM-9000042,9000415,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 94 min after execution (limit 30 min),2026-08-11,2026-08-31,-5,Overdue,Medium
+REM-9000043,9000425,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 182 min after execution (limit 30 min),2026-08-12,2026-09-01,-4,Overdue,Medium
+REM-9000044,9000428,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 108 min after execution (limit 30 min),2026-08-13,2026-09-02,-3,Overdue,Medium
+REM-9000045,9000429,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 88 min after execution (limit 30 min),2026-08-13,2026-09-02,-3,Overdue,Medium
+REM-9000046,9000430,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 159 min after execution (limit 30 min),2026-08-13,2026-09-02,-3,Overdue,Medium
+REM-9000047,9000431,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 144 min after execution (limit 30 min),2026-08-14,2026-09-03,-2,Overdue,Medium
+REM-9000048,9000432,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 79 min after execution (limit 30 min),2026-08-14,2026-09-03,-2,Overdue,Medium
+REM-9000049,9000434,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 129 min after execution (limit 30 min),2026-08-14,2026-09-03,-2,Overdue,Medium
+REM-9000050,9000436,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 171 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000051,9000437,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 176 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000052,9000439,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 147 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000053,9000442,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 120 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000054,9000443,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 85 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000055,9000446,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 101 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000056,9000447,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 92 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000057,9000449,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 162 min after execution (limit 30 min),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000058,9000450,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 183 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000059,9000451,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 143 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000060,9000452,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 46 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000061,9000453,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 115 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000062,9000454,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 81 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000063,9000455,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 208 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000064,9000456,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 68 min after execution (limit 30 min),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000065,9000458,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 187 min after execution (limit 30 min),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000066,9000459,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 197 min after execution (limit 30 min),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000067,9000461,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 196 min after execution (limit 30 min),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000068,9000462,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 138 min after execution (limit 30 min),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000069,9000463,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 145 min after execution (limit 30 min),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000070,9000465,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 190 min after execution (limit 30 min),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000071,9000466,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 166 min after execution (limit 30 min),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000072,9000468,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 129 min after execution (limit 30 min),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000073,9000471,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 131 min after execution (limit 30 min),2026-08-21,2026-09-10,5,On Track,Medium
+REM-9000074,9000473,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 139 min after execution (limit 30 min),2026-08-21,2026-09-10,5,On Track,Medium
+REM-9000075,9000475,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 48 min after execution (limit 30 min),2026-08-21,2026-09-10,5,On Track,Medium
+REM-9000076,9000476,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 108 min after execution (limit 30 min),2026-08-21,2026-09-10,5,On Track,Medium
+REM-9000077,9000480,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 124 min after execution (limit 30 min),2026-08-24,2026-09-13,8,On Track,Medium
+REM-9000078,9000482,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 173 min after execution (limit 30 min),2026-08-24,2026-09-13,8,On Track,Medium
+REM-9000079,9000486,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 55 min after execution (limit 30 min),2026-08-24,2026-09-13,8,On Track,Medium
+REM-9000080,9000488,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 135 min after execution (limit 30 min),2026-08-24,2026-09-13,8,On Track,Medium
+REM-9000081,9000489,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 130 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000082,9000492,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 77 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000083,9000493,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 118 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000084,9000494,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 224 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000085,9000495,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 158 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000086,9000496,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 157 min after execution (limit 30 min),2026-08-25,2026-09-14,9,On Track,Medium
+REM-9000087,9000497,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 138 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000088,9000498,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 174 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000089,9000499,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 61 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000090,9000500,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 116 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000091,9000501,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 187 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000092,9000502,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 161 min after execution (limit 30 min),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000093,9000503,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 175 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000094,9000504,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 161 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000095,9000505,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 50 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000096,9000507,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 100 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000097,9000508,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 87 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000098,9000509,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 211 min after execution (limit 30 min),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000099,9000510,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 106 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000100,9000511,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 120 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000101,9000512,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 157 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000102,9000513,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 99 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000103,9000514,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 223 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000104,9000515,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 144 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000105,9000516,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 147 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000106,9000517,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 214 min after execution (limit 30 min),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000107,9000518,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 150 min after execution (limit 30 min),2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000108,9000521,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 184 min after execution (limit 30 min),2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000109,9000522,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 90 min after execution (limit 30 min),2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000110,9000523,TC-01,"J. Farrow, Trading Ops",ALLOC_LATE,Allocated 189 min after execution (limit 30 min),2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000111,9000558,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 50.0 bps from benchmark (limit 15bps),2025-10-14,2025-10-29,-311,Overdue,Medium
+REM-9000112,9000562,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -34.5 bps from benchmark (limit 15bps),2025-10-14,2025-10-29,-311,Overdue,Medium
+REM-9000113,9000563,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 66.9 bps from benchmark (limit 15bps),2025-10-15,2025-10-30,-310,Overdue,Medium
+REM-9000114,9000564,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -45.5 bps from benchmark (limit 15bps),2025-10-16,2025-10-31,-309,Overdue,Medium
+REM-9000115,9000576,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 24.1 bps from benchmark (limit 15bps),2025-10-31,2025-11-15,-294,Overdue,Medium
+REM-9000116,9000578,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -75.5 bps from benchmark (limit 15bps),2025-11-04,2025-11-19,-290,Overdue,Medium
+REM-9000117,9000585,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -69.8 bps from benchmark (limit 15bps),2025-11-18,2025-12-03,-276,Overdue,Medium
+REM-9000118,9000597,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -90.6 bps from benchmark (limit 15bps),2025-12-09,2025-12-24,-255,Overdue,Medium
+REM-9000119,9000615,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -32.3 bps from benchmark (limit 15bps),2026-01-16,2026-01-31,-217,Overdue,Medium
+REM-9000120,9000630,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 56.3 bps from benchmark (limit 15bps),2026-02-20,2026-03-07,-182,Overdue,Medium
+REM-9000121,9000631,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -76.7 bps from benchmark (limit 15bps),2026-02-23,2026-03-10,-179,Overdue,Medium
+REM-9000122,9000649,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -35.7 bps from benchmark (limit 15bps),2026-04-02,2026-04-17,-141,Overdue,Medium
+REM-9000123,9000650,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -84.0 bps from benchmark (limit 15bps),2026-04-06,2026-04-21,-137,Overdue,Medium
+REM-9000124,9000679,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 25.7 bps from benchmark (limit 15bps),2026-05-27,2026-06-11,-86,Overdue,Medium
+REM-9000125,9000681,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 53.8 bps from benchmark (limit 15bps),2026-05-29,2026-06-13,-84,Overdue,Medium
+REM-9000126,9000686,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 62.6 bps from benchmark (limit 15bps),2026-06-09,2026-06-24,-73,Overdue,Medium
+REM-9000127,9000688,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 72.8 bps from benchmark (limit 15bps),2026-06-12,2026-06-27,-70,Overdue,Medium
+REM-9000128,9000692,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 32.2 bps from benchmark (limit 15bps),2026-06-18,2026-07-03,-64,Overdue,Medium
+REM-9000129,9000729,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -90.5 bps from benchmark (limit 15bps),2026-08-18,2026-09-02,-3,Overdue,Medium
+REM-9000130,9000731,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -80.0 bps from benchmark (limit 15bps),2026-08-19,2026-09-03,-2,Overdue,Medium
+REM-9000131,9000732,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -23.3 bps from benchmark (limit 15bps),2026-08-20,2026-09-04,-1,Overdue,Medium
+REM-9000132,9000733,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated -25.5 bps from benchmark (limit 15bps),2026-08-21,2026-09-05,0,On Track,Medium
+REM-9000133,9000734,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 41.0 bps from benchmark (limit 15bps),2026-08-26,2026-09-10,5,On Track,Medium
+REM-9000134,9000736,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 40.0 bps from benchmark (limit 15bps),2026-08-28,2026-09-12,7,On Track,Medium
+REM-9000135,9000737,TC-02,"J. Farrow, Trading Ops",PRICE_OUTLIER,Execution price deviated 29.7 bps from benchmark (limit 15bps),2026-08-31,2026-09-15,10,On Track,Medium
+REM-9000136,9000747,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 2.39 pts from pro-rata entitlement (limit 2pts),2025-09-04,2025-09-24,-346,Overdue,Medium
+REM-9000137,9000748,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.88 pts from pro-rata entitlement (limit 2pts),2025-09-05,2025-09-25,-345,Overdue,Medium
+REM-9000138,9000757,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.0 pts from pro-rata entitlement (limit 2pts),2025-09-08,2025-09-28,-342,Overdue,Medium
+REM-9000139,9000764,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 13.21 pts from pro-rata entitlement (limit 2pts),2025-09-12,2025-10-02,-338,Overdue,Medium
+REM-9000140,9000780,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 24.69 pts from pro-rata entitlement (limit 2pts),2025-09-17,2025-10-07,-333,Overdue,Medium
+REM-9000141,9000791,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.64 pts from pro-rata entitlement (limit 2pts),2025-09-22,2025-10-12,-328,Overdue,Medium
+REM-9000142,9000792,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.3 pts from pro-rata entitlement (limit 2pts),2025-09-22,2025-10-12,-328,Overdue,Medium
+REM-9000143,9000799,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.44 pts from pro-rata entitlement (limit 2pts),2025-09-26,2025-10-16,-324,Overdue,Medium
+REM-9000144,9000815,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.48 pts from pro-rata entitlement (limit 2pts),2025-10-03,2025-10-23,-317,Overdue,Medium
+REM-9000145,9000841,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.31 pts from pro-rata entitlement (limit 2pts),2025-10-17,2025-11-06,-303,Overdue,Medium
+REM-9000146,9000855,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.17 pts from pro-rata entitlement (limit 2pts),2025-10-21,2025-11-10,-299,Overdue,Medium
+REM-9000147,9000860,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.49 pts from pro-rata entitlement (limit 2pts),2025-10-22,2025-11-11,-298,Overdue,Medium
+REM-9000148,9000866,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 8.34 pts from pro-rata entitlement (limit 2pts),2025-10-23,2025-11-12,-297,Overdue,Medium
+REM-9000149,9000867,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 35.68 pts from pro-rata entitlement (limit 2pts),2025-10-23,2025-11-12,-297,Overdue,Medium
+REM-9000150,9000873,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 10.31 pts from pro-rata entitlement (limit 2pts),2025-10-28,2025-11-17,-292,Overdue,Medium
+REM-9000151,9000878,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.49 pts from pro-rata entitlement (limit 2pts),2025-10-28,2025-11-17,-292,Overdue,Medium
+REM-9000152,9000885,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.76 pts from pro-rata entitlement (limit 2pts),2025-11-05,2025-11-25,-284,Overdue,Medium
+REM-9000153,9000887,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.83 pts from pro-rata entitlement (limit 2pts),2025-11-05,2025-11-25,-284,Overdue,Medium
+REM-9000154,9000898,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 75.15 pts from pro-rata entitlement (limit 2pts),2025-11-11,2025-12-01,-278,Overdue,Medium
+REM-9000155,9000907,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 2.74 pts from pro-rata entitlement (limit 2pts),2025-11-17,2025-12-07,-272,Overdue,Medium
+REM-9000156,9000916,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 25.1 pts from pro-rata entitlement (limit 2pts),2025-11-21,2025-12-11,-268,Overdue,Medium
+REM-9000157,9000921,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 37.11 pts from pro-rata entitlement (limit 2pts),2025-11-24,2025-12-14,-265,Overdue,Medium
+REM-9000158,9000924,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 10.94 pts from pro-rata entitlement (limit 2pts),2025-11-26,2025-12-16,-263,Overdue,Medium
+REM-9000159,9000936,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.51 pts from pro-rata entitlement (limit 2pts),2025-11-28,2025-12-18,-261,Overdue,Medium
+REM-9000160,9000939,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 11.17 pts from pro-rata entitlement (limit 2pts),2025-12-01,2025-12-21,-258,Overdue,Medium
+REM-9000161,9000954,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.23 pts from pro-rata entitlement (limit 2pts),2025-12-10,2025-12-30,-249,Overdue,Medium
+REM-9000162,9000960,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.31 pts from pro-rata entitlement (limit 2pts),2025-12-11,2025-12-31,-248,Overdue,Medium
+REM-9000163,9000963,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.51 pts from pro-rata entitlement (limit 2pts),2025-12-12,2026-01-01,-247,Overdue,Medium
+REM-9000164,9000965,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.45 pts from pro-rata entitlement (limit 2pts),2025-12-16,2026-01-05,-243,Overdue,Medium
+REM-9000165,9000984,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.99 pts from pro-rata entitlement (limit 2pts),2025-12-22,2026-01-11,-237,Overdue,Medium
+REM-9000166,9001013,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.87 pts from pro-rata entitlement (limit 2pts),2026-01-06,2026-01-26,-222,Overdue,Medium
+REM-9000167,9001037,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.41 pts from pro-rata entitlement (limit 2pts),2026-01-13,2026-02-02,-215,Overdue,Medium
+REM-9000168,9001038,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.51 pts from pro-rata entitlement (limit 2pts),2026-01-14,2026-02-03,-214,Overdue,Medium
+REM-9000169,9001040,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 12.31 pts from pro-rata entitlement (limit 2pts),2026-01-14,2026-02-03,-214,Overdue,Medium
+REM-9000170,9001082,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 11.5 pts from pro-rata entitlement (limit 2pts),2026-02-02,2026-02-22,-195,Overdue,Medium
+REM-9000171,9001087,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 15.07 pts from pro-rata entitlement (limit 2pts),2026-02-04,2026-02-24,-193,Overdue,Medium
+REM-9000172,9001097,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.66 pts from pro-rata entitlement (limit 2pts),2026-02-10,2026-03-02,-187,Overdue,Medium
+REM-9000173,9001111,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 10.07 pts from pro-rata entitlement (limit 2pts),2026-02-16,2026-03-08,-181,Overdue,Medium
+REM-9000174,9001112,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 2.36 pts from pro-rata entitlement (limit 2pts),2026-02-16,2026-03-08,-181,Overdue,Medium
+REM-9000175,9001117,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.57 pts from pro-rata entitlement (limit 2pts),2026-02-20,2026-03-12,-177,Overdue,Medium
+REM-9000176,9001128,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 23.97 pts from pro-rata entitlement (limit 2pts),2026-02-26,2026-03-18,-171,Overdue,Medium
+REM-9000177,9001136,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.75 pts from pro-rata entitlement (limit 2pts),2026-03-04,2026-03-24,-165,Overdue,Medium
+REM-9000178,9001149,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.21 pts from pro-rata entitlement (limit 2pts),2026-03-10,2026-03-30,-159,Overdue,Medium
+REM-9000179,9001197,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 15.43 pts from pro-rata entitlement (limit 2pts),2026-03-31,2026-04-20,-138,Overdue,Medium
+REM-9000180,9001208,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.14 pts from pro-rata entitlement (limit 2pts),2026-04-03,2026-04-23,-135,Overdue,Medium
+REM-9000181,9001212,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.69 pts from pro-rata entitlement (limit 2pts),2026-04-07,2026-04-27,-131,Overdue,Medium
+REM-9000182,9001222,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.27 pts from pro-rata entitlement (limit 2pts),2026-04-13,2026-05-03,-125,Overdue,Medium
+REM-9000183,9001236,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 8.11 pts from pro-rata entitlement (limit 2pts),2026-04-16,2026-05-06,-122,Overdue,Medium
+REM-9000184,9001241,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.3 pts from pro-rata entitlement (limit 2pts),2026-04-17,2026-05-07,-121,Overdue,Medium
+REM-9000185,9001244,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 29.08 pts from pro-rata entitlement (limit 2pts),2026-04-20,2026-05-10,-118,Overdue,Medium
+REM-9000186,9001249,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.23 pts from pro-rata entitlement (limit 2pts),2026-04-24,2026-05-14,-114,Overdue,Medium
+REM-9000187,9001250,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.26 pts from pro-rata entitlement (limit 2pts),2026-04-27,2026-05-17,-111,Overdue,Medium
+REM-9000188,9001254,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 24.78 pts from pro-rata entitlement (limit 2pts),2026-04-29,2026-05-19,-109,Overdue,Medium
+REM-9000189,9001266,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.43 pts from pro-rata entitlement (limit 2pts),2026-05-07,2026-05-27,-101,Overdue,Medium
+REM-9000190,9001303,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.11 pts from pro-rata entitlement (limit 2pts),2026-05-20,2026-06-09,-88,Overdue,Medium
+REM-9000191,9001313,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 8.52 pts from pro-rata entitlement (limit 2pts),2026-05-26,2026-06-15,-82,Overdue,Medium
+REM-9000192,9001328,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 13.21 pts from pro-rata entitlement (limit 2pts),2026-06-04,2026-06-24,-73,Overdue,Medium
+REM-9000193,9001342,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.61 pts from pro-rata entitlement (limit 2pts),2026-06-09,2026-06-29,-68,Overdue,Medium
+REM-9000194,9001345,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 19.17 pts from pro-rata entitlement (limit 2pts),2026-06-10,2026-06-30,-67,Overdue,Medium
+REM-9000195,9001350,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 591.08 pts from pro-rata entitlement (limit 2pts),2026-06-12,2026-07-02,-65,Overdue,Medium
+REM-9000196,9001359,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 17.73 pts from pro-rata entitlement (limit 2pts),2026-06-18,2026-07-08,-59,Overdue,Medium
+REM-9000197,9001376,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.92 pts from pro-rata entitlement (limit 2pts),2026-06-29,2026-07-19,-48,Overdue,Medium
+REM-9000198,9001388,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.41 pts from pro-rata entitlement (limit 2pts),2026-07-01,2026-07-21,-46,Overdue,Medium
+REM-9000199,9001419,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.58 pts from pro-rata entitlement (limit 2pts),2026-07-17,2026-08-06,-30,Overdue,Medium
+REM-9000200,9001426,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 15.25 pts from pro-rata entitlement (limit 2pts),2026-07-22,2026-08-11,-25,Overdue,Medium
+REM-9000201,9001457,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 8.16 pts from pro-rata entitlement (limit 2pts),2026-07-31,2026-08-20,-16,Overdue,Medium
+REM-9000202,9001459,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.23 pts from pro-rata entitlement (limit 2pts),2026-08-03,2026-08-23,-13,Overdue,Medium
+REM-9000203,9001463,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.88 pts from pro-rata entitlement (limit 2pts),2026-08-04,2026-08-24,-12,Overdue,Medium
+REM-9000204,9001464,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.54 pts from pro-rata entitlement (limit 2pts),2026-08-05,2026-08-25,-11,Overdue,Medium
+REM-9000205,9001465,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.49 pts from pro-rata entitlement (limit 2pts),2026-08-06,2026-08-26,-10,Overdue,Medium
+REM-9000206,9001471,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 2.02 pts from pro-rata entitlement (limit 2pts),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000207,9001473,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 17.4 pts from pro-rata entitlement (limit 2pts),2026-08-10,2026-08-30,-6,Overdue,Medium
+REM-9000208,9001476,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.53 pts from pro-rata entitlement (limit 2pts),2026-08-11,2026-08-31,-5,Overdue,Medium
+REM-9000209,9001478,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.56 pts from pro-rata entitlement (limit 2pts),2026-08-12,2026-09-01,-4,Overdue,Medium
+REM-9000210,9001483,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 22.23 pts from pro-rata entitlement (limit 2pts),2026-08-14,2026-09-03,-2,Overdue,Medium
+REM-9000211,9001486,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 24.53 pts from pro-rata entitlement (limit 2pts),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000212,9001487,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 8.3 pts from pro-rata entitlement (limit 2pts),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000213,9001489,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 24.28 pts from pro-rata entitlement (limit 2pts),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000214,9001491,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 61.64 pts from pro-rata entitlement (limit 2pts),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000215,9001494,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 6.39 pts from pro-rata entitlement (limit 2pts),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000216,9001495,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 7.39 pts from pro-rata entitlement (limit 2pts),2026-08-19,2026-09-08,3,On Track,Medium
+REM-9000217,9001497,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 30.25 pts from pro-rata entitlement (limit 2pts),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000218,9001498,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.02 pts from pro-rata entitlement (limit 2pts),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000219,9001501,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.92 pts from pro-rata entitlement (limit 2pts),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000220,9001502,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 42.61 pts from pro-rata entitlement (limit 2pts),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000221,9001503,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 11.34 pts from pro-rata entitlement (limit 2pts),2026-08-26,2026-09-15,10,On Track,Medium
+REM-9000222,9001504,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.04 pts from pro-rata entitlement (limit 2pts),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000223,9001505,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 4.05 pts from pro-rata entitlement (limit 2pts),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000224,9001506,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 3.94 pts from pro-rata entitlement (limit 2pts),2026-08-27,2026-09-16,11,On Track,Medium
+REM-9000225,9001507,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 20.84 pts from pro-rata entitlement (limit 2pts),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000226,9001508,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 26.24 pts from pro-rata entitlement (limit 2pts),2026-08-28,2026-09-17,12,On Track,Medium
+REM-9000227,9001509,TC-03,"J. Farrow, Trading Ops",ALLOC_UNFAIR,Allocation deviated 5.44 pts from pro-rata entitlement (limit 2pts),2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000228,9001510,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 11.38% vs recalculated (limit 0.5%),2025-09-30,2025-10-15,-325,Overdue,Medium
+REM-9000229,9001519,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 9.82% vs recalculated (limit 0.5%),2025-10-31,2025-11-15,-294,Overdue,Medium
+REM-9000230,9001521,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 5.48% vs recalculated (limit 0.5%),2025-10-31,2025-11-15,-294,Overdue,Medium
+REM-9000231,9001549,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 11.13% vs recalculated (limit 0.5%),2026-02-28,2026-03-15,-174,Overdue,Medium
+REM-9000232,9001560,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 2.46% vs recalculated (limit 0.5%),2026-02-28,2026-03-15,-174,Overdue,Medium
+REM-9000233,9001586,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 10.2% vs recalculated (limit 0.5%),2026-02-28,2026-03-15,-174,Overdue,Medium
+REM-9000234,9001593,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 3.26% vs recalculated (limit 0.5%),2026-02-28,2026-03-15,-174,Overdue,Medium
+REM-9000235,9001632,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 5.23% vs recalculated (limit 0.5%),2026-07-31,2026-08-15,-21,Overdue,Medium
+REM-9000236,9001636,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 7.39% vs recalculated (limit 0.5%),2026-07-31,2026-08-15,-21,Overdue,Medium
+REM-9000237,9001637,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 5.3% vs recalculated (limit 0.5%),2026-08-31,2026-09-15,10,On Track,Medium
+REM-9000238,9001638,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 1.03% vs recalculated (limit 0.5%),2026-08-31,2026-09-15,10,On Track,Medium
+REM-9000239,9001639,FC-01,"M. Cho, Billing Ops",FEE_MISMATCH,Billed fee variance 12.58% vs recalculated (limit 0.5%),2026-08-31,2026-09-15,10,On Track,Medium
+REM-9000240,9001665,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2025-11-16,2025-12-06,-273,Overdue,Medium
+REM-9000241,9001668,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2025-11-18,2025-12-08,-271,Overdue,Medium
+REM-9000242,9001673,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 15 business days after period end (limit 10),2025-12-20,2026-01-09,-239,Overdue,Medium
+REM-9000243,9001684,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-01-15,2026-02-04,-213,Overdue,Medium
+REM-9000244,9001688,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-02-17,2026-03-09,-180,Overdue,Medium
+REM-9000245,9001691,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 14 business days after period end (limit 10),2026-02-20,2026-03-12,-177,Overdue,Medium
+REM-9000246,9001696,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-03-18,2026-04-07,-151,Overdue,Medium
+REM-9000247,9001754,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-16,2026-09-05,0,On Track,Medium
+REM-9000248,9001755,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 14 business days after period end (limit 10),2026-08-20,2026-09-09,4,On Track,Medium
+REM-9000249,9001756,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-15,2026-09-04,-1,Overdue,Medium
+REM-9000250,9001757,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-16,2026-09-05,0,On Track,Medium
+REM-9000251,9001758,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000252,9001760,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-16,2026-09-05,0,On Track,Medium
+REM-9000253,9001763,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-17,2026-09-06,1,On Track,Medium
+REM-9000254,9001766,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-08-15,2026-09-04,-1,Overdue,Medium
+REM-9000255,9001767,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-08-18,2026-09-07,2,On Track,Medium
+REM-9000256,9001768,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 13 business days after period end (limit 10),2026-09-17,2026-10-07,32,On Track,Medium
+REM-9000257,9001769,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 15 business days after period end (limit 10),2026-09-21,2026-10-11,36,On Track,Medium
+REM-9000258,9001770,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 15 business days after period end (limit 10),2026-09-21,2026-10-11,36,On Track,Medium
+REM-9000259,9001771,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-09-15,2026-10-05,30,On Track,Medium
+REM-9000260,9001772,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-09-16,2026-10-06,31,On Track,Medium
+REM-9000261,9001773,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 15 business days after period end (limit 10),2026-09-20,2026-10-10,35,On Track,Medium
+REM-9000262,9001774,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 14 business days after period end (limit 10),2026-09-18,2026-10-08,33,On Track,Medium
+REM-9000263,9001775,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 14 business days after period end (limit 10),2026-09-18,2026-10-08,33,On Track,Medium
+REM-9000264,9001776,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-09-16,2026-10-06,31,On Track,Medium
+REM-9000265,9001777,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 12 business days after period end (limit 10),2026-09-16,2026-10-06,31,On Track,Medium
+REM-9000266,9001778,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 11 business days after period end (limit 10),2026-09-15,2026-10-05,30,On Track,Medium
+REM-9000267,9001779,FC-02,"M. Cho, Billing Ops",INVOICE_LATE,Invoice issued 15 business days after period end (limit 10),2026-09-19,2026-10-09,34,On Track,Medium
+REM-9000268,9001788,KC-01,"R. Alavi, Compliance Ops",KYC_OPEN_PAST_DUE,Refresh still open past due date 2025-11-02,2025-11-02,2025-11-17,-292,Overdue,Medium
+REM-9000269,9001794,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,42 days late vs. due date,2025-12-01,2025-12-31,-248,Overdue,Low
+REM-9000270,9001803,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,3 days late vs. due date,2026-02-04,2026-03-06,-183,Overdue,Low
+REM-9000271,9001836,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,4 days late vs. due date,2026-05-31,2026-06-30,-67,Overdue,Low
+REM-9000272,9001861,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,36 days late vs. due date,2026-07-03,2026-08-02,-34,Overdue,Low
+REM-9000273,9001865,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,6 days late vs. due date,2026-08-03,2026-09-02,-3,Overdue,Low
+REM-9000274,9001866,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,5 days late vs. due date,2026-08-03,2026-09-02,-3,Overdue,Low
+REM-9000275,9001867,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,37 days late vs. due date,2026-08-01,2026-08-31,-5,Overdue,Low
+REM-9000276,9001868,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,11 days late vs. due date,2026-08-01,2026-08-31,-5,Overdue,Low
+REM-9000277,9001869,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,13 days late vs. due date,2026-07-31,2026-08-30,-6,Overdue,Low
+REM-9000278,9001870,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,33 days late vs. due date,2026-08-04,2026-09-03,-2,Overdue,Low
+REM-9000279,9001876,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,36 days late vs. due date,2026-08-03,2026-09-02,-3,Overdue,Low
+REM-9000280,9001877,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,34 days late vs. due date,2026-08-04,2026-09-03,-2,Overdue,Low
+REM-9000281,9001880,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,22 days late vs. due date,2026-08-04,2026-09-03,-2,Overdue,Low
+REM-9000282,9001882,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,23 days late vs. due date,2026-08-02,2026-09-01,-4,Overdue,Low
+REM-9000283,9001887,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,40 days late vs. due date,2026-08-04,2026-09-03,-2,Overdue,Low
+REM-9000284,9001889,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,34 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000285,9001890,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,3 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000286,9001891,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,37 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000287,9001892,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,34 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000288,9001893,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,18 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000289,9001894,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,15 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000290,9001895,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,26 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000291,9001896,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,33 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000292,9001897,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,13 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000293,9001898,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,7 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000294,9001899,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,26 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000295,9001900,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,16 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000296,9001901,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,32 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000297,9001902,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,43 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000298,9001903,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,12 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000299,9001904,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,29 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000300,9001905,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,38 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000301,9001906,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,31 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000302,9001907,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,6 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000303,9001908,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,8 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000304,9001909,KC-01,"R. Alavi, Compliance Ops",KYC_OPEN_PAST_DUE,Refresh still open past due date 2026-09-04,2026-09-04,2026-09-19,14,On Track,Medium
+REM-9000305,9001910,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,36 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000306,9001911,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,16 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000307,9001912,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,5 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000308,9001913,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,18 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000309,9001914,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,8 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000310,9001915,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,41 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000311,9001916,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,27 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000312,9001917,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,27 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000313,9001918,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,25 days late vs. due date,2026-09-02,2026-10-02,27,On Track,Low
+REM-9000314,9001919,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,8 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000315,9001920,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,10 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000316,9001921,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,40 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000317,9001922,KC-01,"R. Alavi, Compliance Ops",KYC_OPEN_PAST_DUE,Refresh still open past due date 2026-09-03,2026-09-03,2026-09-18,13,On Track,Medium
+REM-9000318,9001923,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,18 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000319,9001924,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,33 days late vs. due date,2026-09-04,2026-10-04,29,On Track,Low
+REM-9000320,9001926,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,24 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000321,9001927,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,32 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000322,9001928,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,21 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000323,9001929,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,44 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000324,9001930,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,39 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000325,9001931,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,5 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000326,9001932,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,33 days late vs. due date,2026-09-01,2026-10-01,26,On Track,Low
+REM-9000327,9001933,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,27 days late vs. due date,2026-08-31,2026-09-30,25,On Track,Low
+REM-9000328,9001934,KC-01,"R. Alavi, Compliance Ops",KYC_LATE,20 days late vs. due date,2026-09-03,2026-10-03,28,On Track,Low
+REM-9000329,9001986,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-06-03,2026-06-23,-74,Overdue,Medium
+REM-9000330,9001991,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-07-04,2026-07-24,-43,Overdue,Medium
+REM-9000331,9002005,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-07-31,2026-08-20,-16,Overdue,Medium
+REM-9000332,9002006,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-09-04,2026-09-24,19,On Track,Medium
+REM-9000333,9002007,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-09-03,2026-09-23,18,On Track,Medium
+REM-9000334,9002008,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-09-01,2026-09-21,16,On Track,Medium
+REM-9000335,9002009,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000336,9002010,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-09-04,2026-09-24,19,On Track,Medium
+REM-9000337,9002011,KC-02,"R. Alavi, Compliance Ops",KYC_DOCS_INCOMPLETE,Required KYC documentation incomplete at review closure,2026-09-04,2026-09-24,19,On Track,Medium
+REM-9000338,9002015,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 89.2 bps vs independent source (limit 25bps),2025-09-10,2025-09-20,-350,Overdue,High
+REM-9000339,9002033,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 75.2 bps vs independent source (limit 25bps),2025-12-01,2025-12-11,-268,Overdue,High
+REM-9000340,9002041,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 98.1 bps vs independent source (limit 25bps),2026-01-02,2026-01-12,-236,Overdue,High
+REM-9000341,9002050,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 108.2 bps vs independent source (limit 25bps),2026-02-04,2026-02-14,-203,Overdue,High
+REM-9000342,9002053,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 131.8 bps vs independent source (limit 25bps),2026-02-24,2026-03-06,-183,Overdue,High
+REM-9000343,9002067,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 54.0 bps vs independent source (limit 25bps),2026-04-02,2026-04-12,-146,Overdue,High
+REM-9000344,9002085,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 65.5 bps vs independent source (limit 25bps),2026-06-10,2026-06-20,-77,Overdue,High
+REM-9000345,9002087,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 114.1 bps vs independent source (limit 25bps),2026-06-12,2026-06-22,-75,Overdue,High
+REM-9000346,9002097,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 47.9 bps vs independent source (limit 25bps),2026-07-07,2026-07-17,-50,Overdue,High
+REM-9000347,9002100,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 77.4 bps vs independent source (limit 25bps),2026-07-14,2026-07-24,-43,Overdue,High
+REM-9000348,9002113,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 98.2 bps vs independent source (limit 25bps),2026-08-25,2026-09-04,-1,Overdue,High
+REM-9000349,9002114,NV-01,"S. Okonjo, Valuation Control",PRICE_BREAK,Price variance 44.6 bps vs independent source (limit 25bps),2026-08-26,2026-09-05,0,On Track,High
+REM-9000350,9002125,NV-02,"S. Okonjo, Valuation Control",BREAK_SLA_MISSED,4 business days to resolve (limit 3),2026-08-11,2026-08-21,-15,Overdue,High
+REM-9000351,9002126,NV-02,"S. Okonjo, Valuation Control",BREAK_SLA_MISSED,5 business days to resolve (limit 3),2026-08-18,2026-08-28,-8,Overdue,High
+REM-9000352,9002171,CM-01,"D. Weiss, Treasury Ops",MISSING_DUAL_APPROVAL,"Movement of $485847 lacks second approver (threshold $250,000)",2026-08-25,2026-09-04,-1,Overdue,High
+REM-9000353,9002207,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-03-06,2026-03-21,-168,Overdue,Medium
+REM-9000354,9002210,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-03-30,2026-04-14,-144,Overdue,Medium
+REM-9000355,9002229,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-07-06,2026-07-21,-46,Overdue,Medium
+REM-9000356,9002234,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-08-17,2026-09-01,-4,Overdue,Medium
+REM-9000357,9002235,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-08-27,2026-09-11,6,On Track,Medium
+REM-9000358,9002236,CM-02,"D. Weiss, Treasury Ops",CUSTODIAN_BREAK,Movement does not match custodian statement,2026-08-27,2026-09-11,6,On Track,Medium
+REM-9000359,9002237,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 95.56% is above max for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000360,9002238,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 61.57% is below min for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000361,9002239,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 103.75% is above max for Fixed Income Core,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000362,9002240,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 105.92% is above max for Fixed Income Core,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000363,9002242,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Cash weight 12.03% is above max for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000364,9002243,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 32.94% is above max for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000365,9002244,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 48.29% is below min for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000366,9002246,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 44.76% is below min for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000367,9002247,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 30.45% is above max for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000368,9002249,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 30.37% is above max for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000369,9002250,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 61.51% is below min for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000370,9002251,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 47.91% is below min for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000371,9002252,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 67.56% is above max for Balanced Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000372,9002253,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 97.57% is above max for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000373,9002254,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 19.51% is below min for Balanced Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000374,9002255,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 63.62% is below min for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000375,9002256,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 48.68% is below min for Conservative Income,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000376,9002257,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 51.56% is above max for Balanced Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000377,9002258,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 63.1% is below min for Aggressive Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000378,9002259,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 77.75% is below min for Fixed Income Core,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000379,9002260,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Equity weight 37.75% is below min for Balanced Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000380,9002261,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 19.28% is below min for Balanced Growth,2026-08-31,2026-09-20,15,On Track,Medium
+REM-9000381,9002262,SM-01,"A. Petrova, Suitability Oversight",GUIDELINE_BREACH,Bond weight 107.36% is above max for Fixed Income Core,2026-08-31,2026-09-20,15,On Track,Medium
