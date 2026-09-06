@@ -1,0 +1,14 @@
+control_id,control_name,process_name,risk_category,period,latest_pass_rate,kri_threshold,inherent_risk_1to5,pass_component,trend_component,exception_severity_component,sla_breach_component,control_effectiveness_score,control_effectiveness_rating,residual_risk_score,residual_risk_rating,open_exceptions,rag_status_latest
+KC-01,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh,Compliance,2026-09,0.661,0.96,4,68.9,20,20,0,42.4,Ineffective,11.52,High,61,Red
+NV-02,Break Resolution SLA,NAV / Valuation Oversight,Valuation,2026-08,0.6,0.9,4,66.7,20,20,67,48.0,Ineffective,10.4,High,2,Red
+TC-01,Allocation Timeliness,Trade Allocation & Execution,Operational,2026-08,0.8545,0.97,3,88.1,20,20,33,55.3,Ineffective,6.71,Medium,111,Red
+KC-02,Documentation Completeness,Client Onboarding / KYC-AML Refresh,Compliance,2026-09,0.9576,0.98,4,97.7,70,20,17,68.6,Needs Improvement,6.28,Medium,9,Amber
+CM-01,Dual Approval Threshold,Cash & Collateral Movements,Operational,2026-08,0.8889,0.99,3,89.8,20,75,0,63.9,Ineffective,5.42,Medium,1,Red
+TC-03,Pro-Rata Allocation Fairness,Trade Allocation & Execution,Operational,2026-08,0.9545,0.97,3,98.4,90,20,0,71.2,Needs Improvement,4.32,Low,92,Amber
+FC-02,Invoice Timeliness SLA,Fee Billing & Calculation,Operational,2026-08,0.96,0.95,3,100.0,70,20,83,76.3,Needs Improvement,3.55,Low,28,Green
+SM-01,Guideline Band Compliance,Suitability & Mandate Compliance,Suitability,2026-08,0.9422,0.93,4,100.0,70,50,100,84.0,Needs Improvement,3.2,Low,23,Green
+NV-01,Price Variance Tolerance,NAV / Valuation Oversight,Valuation,2026-08,0.9762,0.97,4,100.0,70,75,100,89.0,Effective,2.2,Low,12,Green
+FC-01,Fee Recalculation Match,Fee Billing & Calculation,Operational,2026-08,0.9833,0.97,3,100.0,90,50,83,86.3,Effective,2.06,Low,12,Green
+CM-02,Custodian Reconciliation Match,Cash & Collateral Movements,Operational,2026-08,0.9829,0.98,3,100.0,70,75,83,87.3,Effective,1.91,Low,6,Green
+TC-02,Execution Price Reasonableness,Trade Allocation & Execution,Operational,2026-08,0.9812,0.98,3,100.0,70,75,100,89.0,Effective,1.65,Low,25,Green
+SM-02,Periodic Suitability Review,Suitability & Mandate Compliance,Suitability,2026-08,1.0,0.95,3,100.0,90,95,50,92.0,Effective,1.2,Low,0,Green
