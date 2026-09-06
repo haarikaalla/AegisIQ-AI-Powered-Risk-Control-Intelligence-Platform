@@ -1,0 +1,148 @@
+period,population,pass_count,fail_count,dq_exception_count,pass_rate,control_id,kri_threshold,rag_status,control_name,process_name
+2025-09,74,70,4,0,0.9459,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2025-10,74,70,4,0,0.9459,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2025-11,67,65,2,0,0.9701,CM-01,0.99,Amber,Dual Approval Threshold,Cash & Collateral Movements
+2025-12,77,74,3,0,0.961,CM-01,0.99,Amber,Dual Approval Threshold,Cash & Collateral Movements
+2026-01,70,66,4,0,0.9429,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2026-02,64,61,3,0,0.9531,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2026-03,66,64,2,0,0.9697,CM-01,0.99,Amber,Dual Approval Threshold,Cash & Collateral Movements
+2026-04,82,76,6,0,0.9268,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2026-05,75,71,4,0,0.9467,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2026-06,81,77,4,0,0.9506,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2026-07,82,79,3,0,0.9634,CM-01,0.99,Amber,Dual Approval Threshold,Cash & Collateral Movements
+2026-08,54,48,6,0,0.8889,CM-01,0.99,Red,Dual Approval Threshold,Cash & Collateral Movements
+2025-09,337,331,6,0,0.9822,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2025-10,359,351,8,0,0.9777,CM-02,0.98,Amber,Custodian Reconciliation Match,Cash & Collateral Movements
+2025-11,306,297,9,0,0.9706,CM-02,0.98,Amber,Custodian Reconciliation Match,Cash & Collateral Movements
+2025-12,344,340,4,0,0.9884,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-01,314,310,4,0,0.9873,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-02,290,286,4,0,0.9862,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-03,355,350,5,0,0.9859,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-04,325,319,6,0,0.9815,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-05,291,285,6,0,0.9794,CM-02,0.98,Amber,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-06,325,320,5,0,0.9846,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-07,334,331,3,0,0.991,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2026-08,292,287,5,0,0.9829,CM-02,0.98,Green,Custodian Reconciliation Match,Cash & Collateral Movements
+2025-09,297,293,4,0,0.9865,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2025-10,297,289,8,0,0.9731,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2025-11,299,295,4,0,0.9866,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2025-12,296,290,6,0,0.9797,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-01,296,291,5,0,0.9831,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-02,299,228,71,0,0.7625,FC-01,0.97,Red,Fee Recalculation Match,Fee Billing & Calculation
+2026-03,298,292,6,0,0.9799,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-04,297,294,3,0,0.9899,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-05,296,292,4,0,0.9865,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-06,297,292,5,0,0.9832,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2026-07,300,289,11,0,0.9633,FC-01,0.97,Amber,Fee Recalculation Match,Fee Billing & Calculation
+2026-08,299,294,5,0,0.9833,FC-01,0.97,Green,Fee Recalculation Match,Fee Billing & Calculation
+2025-09,300,281,19,0,0.9367,FC-02,0.95,Amber,Invoice Timeliness SLA,Fee Billing & Calculation
+2025-10,300,290,10,0,0.9667,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2025-11,300,291,9,0,0.97,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2025-12,300,293,7,0,0.9767,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-01,300,292,8,0,0.9733,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-02,300,289,11,0,0.9633,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-03,300,294,6,0,0.98,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-04,300,284,16,0,0.9467,FC-02,0.95,Amber,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-05,300,286,14,0,0.9533,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-06,300,288,12,0,0.96,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-07,300,286,14,0,0.9533,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2026-08,300,288,12,0,0.96,FC-02,0.95,Green,Invoice Timeliness SLA,Fee Billing & Calculation
+2025-09,21,21,0,0,1.0,KC-01,0.96,Green,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2025-10,163,157,6,0,0.9632,KC-01,0.96,Green,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2025-11,149,141,8,0,0.9463,KC-01,0.96,Amber,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2025-12,143,141,2,0,0.986,KC-01,0.96,Green,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-01,159,153,6,0,0.9623,KC-01,0.96,Green,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-02,140,133,7,0,0.95,KC-01,0.96,Amber,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-03,151,144,7,0,0.9536,KC-01,0.96,Amber,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-04,150,142,8,0,0.9467,KC-01,0.96,Amber,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-05,155,142,13,0,0.9161,KC-01,0.96,Red,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-06,150,143,7,0,0.9533,KC-01,0.96,Amber,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-07,148,126,22,0,0.8514,KC-01,0.96,Red,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-08,153,123,30,0,0.8039,KC-01,0.96,Red,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2026-09,118,78,40,0,0.661,KC-01,0.96,Red,Refresh SLA Compliance,Client Onboarding / KYC-AML Refresh
+2025-09,21,21,0,0,1.0,KC-02,0.98,Green,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2025-10,163,153,10,0,0.9387,KC-02,0.98,Red,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2025-11,149,144,5,0,0.9664,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2025-12,143,136,7,0,0.951,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-01,159,153,6,0,0.9623,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-02,140,136,4,0,0.9714,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-03,151,143,8,0,0.947,KC-02,0.98,Red,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-04,150,147,3,0,0.98,KC-02,0.98,Green,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-05,155,148,7,0,0.9548,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-06,150,143,7,0,0.9533,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-07,148,141,7,0,0.9527,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-08,153,146,7,0,0.9542,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2026-09,118,113,5,0,0.9576,KC-02,0.98,Amber,Documentation Completeness,Client Onboarding / KYC-AML Refresh
+2025-09,440,430,10,0,0.9773,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2025-10,460,455,5,0,0.9891,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2025-11,400,394,6,0,0.985,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2025-12,460,452,8,0,0.9826,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-01,440,431,9,0,0.9795,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-02,400,394,6,0,0.985,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-03,440,429,11,0,0.975,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-04,440,434,6,0,0.9864,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-05,420,410,10,0,0.9762,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-06,440,428,12,0,0.9727,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-07,460,450,10,0,0.9783,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2026-08,420,410,10,0,0.9762,NV-01,0.97,Green,Price Variance Tolerance,NAV / Valuation Oversight
+2025-09,10,8,2,0,0.8,NV-02,0.9,Red,Break Resolution SLA,NAV / Valuation Oversight
+2025-10,5,5,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2025-11,6,5,1,0,0.8333,NV-02,0.9,Red,Break Resolution SLA,NAV / Valuation Oversight
+2025-12,8,8,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-01,9,9,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-02,6,4,2,0,0.6667,NV-02,0.9,Red,Break Resolution SLA,NAV / Valuation Oversight
+2026-03,11,11,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-04,6,6,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-05,10,8,2,0,0.8,NV-02,0.9,Red,Break Resolution SLA,NAV / Valuation Oversight
+2026-06,12,12,0,0,1.0,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-07,10,9,1,0,0.9,NV-02,0.9,Green,Break Resolution SLA,NAV / Valuation Oversight
+2026-08,10,6,4,0,0.6,NV-02,0.9,Red,Break Resolution SLA,NAV / Valuation Oversight
+2026-08,450,424,26,0,0.9422,SM-01,0.93,Green,Guideline Band Compliance,Suitability & Mandate Compliance
+2025-09,13,13,0,0,1.0,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2025-10,9,8,1,0,0.8889,SM-02,0.95,Red,Periodic Suitability Review,Suitability & Mandate Compliance
+2025-11,10,10,0,0,1.0,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2025-12,21,20,1,0,0.9524,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-01,13,12,1,0,0.9231,SM-02,0.95,Amber,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-02,11,9,2,0,0.8182,SM-02,0.95,Red,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-03,12,10,2,0,0.8333,SM-02,0.95,Red,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-04,14,13,1,0,0.9286,SM-02,0.95,Amber,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-05,8,8,0,0,1.0,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-06,10,9,1,0,0.9,SM-02,0.95,Red,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-07,19,19,0,0,1.0,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2026-08,10,10,0,0,1.0,SM-02,0.95,Green,Periodic Suitability Review,Suitability & Mandate Compliance
+2025-09,1189,1174,15,28,0.9874,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2025-10,1288,1273,15,19,0.9884,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2025-11,1058,1047,11,27,0.9896,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2025-12,1261,1249,12,28,0.9905,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2026-01,1169,1159,10,25,0.9914,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2026-02,1095,1084,11,24,0.99,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2026-03,1156,1144,12,22,0.9896,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2026-04,1156,1144,12,18,0.9896,TC-01,0.97,Green,Allocation Timeliness,Trade Allocation & Execution
+2026-05,1095,1043,52,23,0.9525,TC-01,0.97,Amber,Allocation Timeliness,Trade Allocation & Execution
+2026-06,1177,1084,93,22,0.921,TC-01,0.97,Red,Allocation Timeliness,Trade Allocation & Execution
+2026-07,1174,1057,117,23,0.9003,TC-01,0.97,Red,Allocation Timeliness,Trade Allocation & Execution
+2026-08,1120,957,163,22,0.8545,TC-01,0.97,Red,Allocation Timeliness,Trade Allocation & Execution
+2025-09,1187,1165,22,0,0.9815,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2025-10,1283,1251,32,0,0.9751,TC-02,0.98,Amber,Execution Price Reasonableness,Trade Allocation & Execution
+2025-11,1055,1041,14,0,0.9867,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2025-12,1258,1239,19,0,0.9849,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-01,1164,1153,11,0,0.9905,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-02,1094,1084,10,0,0.9909,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-03,1154,1139,15,0,0.987,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-04,1150,1133,17,0,0.9852,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-05,1093,1075,18,0,0.9835,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-06,1173,1153,20,0,0.9829,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-07,1168,1153,15,0,0.9872,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2026-08,1117,1096,21,0,0.9812,TC-02,0.98,Green,Execution Price Reasonableness,Trade Allocation & Execution
+2025-09,1189,1116,73,0,0.9386,TC-03,0.97,Red,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2025-10,1288,1217,71,0,0.9449,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2025-11,1058,1002,56,0,0.9471,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2025-12,1261,1196,65,0,0.9485,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-01,1169,1091,78,0,0.9333,TC-03,0.97,Red,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-02,1095,1044,51,0,0.9534,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-03,1156,1090,66,0,0.9429,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-04,1156,1097,59,0,0.949,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-05,1095,1032,63,0,0.9425,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-06,1177,1111,66,0,0.9439,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-07,1174,1101,73,0,0.9378,TC-03,0.97,Red,Pro-Rata Allocation Fairness,Trade Allocation & Execution
+2026-08,1120,1069,51,0,0.9545,TC-03,0.97,Amber,Pro-Rata Allocation Fairness,Trade Allocation & Execution
