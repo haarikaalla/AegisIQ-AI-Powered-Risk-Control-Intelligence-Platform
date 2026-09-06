@@ -1,0 +1,8 @@
+table,issue,affected_rows,action_taken
+trades,Duplicate rows on key 'trade_id',43,"Removed, kept first occurrence"
+trades,Timestamp format drift in 'execution_timestamp' ('/' vs '-'),1194,Normalized to ISO 'YYYY-MM-DD HH:MM:SS' format
+trades,Missing required field 'quantity',140,"Flagged as Data-Quality Exception (not testable, not silently dropped)"
+trades,Missing required field 'execution_price',142,"Flagged as Data-Quality Exception (not testable, not silently dropped)"
+trades,Negative quantity,29,Flagged as Data-Quality Exception
+trades,Zero/negative execution price,14,Flagged as Data-Quality Exception
+fee_calculations,Missing required field 'billed_fee',29,"Flagged as Data-Quality Exception (not testable, not silently dropped)"
